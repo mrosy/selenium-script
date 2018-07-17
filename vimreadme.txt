@@ -130,4 +130,6 @@ MAIN AUTHOR
 
 Send any other comments, patches, flowers and suggestions to:
 
-	Bram Moolenaar		E-mail:	Bram@vim.org
+	Bram Moolenaar		E-mail:	Bram@vim.or g
+
+	my first change

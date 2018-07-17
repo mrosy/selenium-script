@@ -130,10 +130,32 @@ MAIN AUTHOR
 
 Send any other comments, patches, flowers and suggestions to:
 
+<<<<<<< HEAD
 	Bram Moolenaar		E-mail:	Bram@vim.org
+=======
+	Bram Moolenaar		E-mail:	Bram@vim.or g
+
+	my first change
+
+         my third change
+
+
+          
 
 
 
 
 
+
+
+
+>>>>>>> iss53
+
+
+
+
+
+<<<<<<< HEAD
 	my second change
+=======
+>>>>>>> iss53
